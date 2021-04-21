@@ -1,4 +1,5 @@
 # Annika Damstedt's Programming Portfolio 2021
+Annika Damstedt [Email](mailto:acdamstedt@gmail.com)
 
 ## Processing Projects
 
